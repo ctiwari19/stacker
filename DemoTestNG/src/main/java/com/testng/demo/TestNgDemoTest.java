@@ -14,6 +14,11 @@ String password =  System.getProperty(" PASSWORD" );
 		System.out.println("We Want ID card");
 		
 	}
+public void extra()
+{
+System.out.println("dixits");
+System.out.println("hii all");
+}
 
 
 }
