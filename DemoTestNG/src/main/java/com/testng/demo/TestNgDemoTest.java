@@ -11,7 +11,7 @@ String url =  System.getProperty(" URL" );
 String browser =  System.getProperty(" BROWSER" );
 String username =  System.getProperty(" USERNAME" );
 String password =  System.getProperty(" PASSWORD" );
-		System.out.println("We Want ID card");
+System.out.println("We Want ID card");
 		
 	}
 public void extra()
