@@ -18,9 +18,11 @@ System.out.println("good I");
 	}
 public void extra()
 {
-System.out.println("dixits");
+System.out.println(" inn");
 	System.out.println("good bye");
 	System.out.println("good I");
+	System.out.println("good bye");
+	System.out.println("good stood");
 	System.out.println("good bye");
 	System.out.println("good stood");
 	//System.out.println("good I");
