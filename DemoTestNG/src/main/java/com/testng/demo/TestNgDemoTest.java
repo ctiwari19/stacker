@@ -15,7 +15,10 @@ System.out.println("We Want ID card");
 System.out.println("good bye");
 System.out.println("good I");	
 System.out.println("good stood");
-		
+
+String BROWSER = System.getProperty("browser");
+String URL = System.getProperty("url");
+		System.out.println("---->browser is"+BROWSER+"---->url is"+URL);
 	}
 public void extra()
 {
