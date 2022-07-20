@@ -20,6 +20,7 @@ public void extra()
 {
 System.out.println(" inn");
 	System.out.println("good bye");
+	System.out.println(" inn");
 	System.out.println("good I");
 	System.out.println("good bye");
 	System.out.println("good stood");
