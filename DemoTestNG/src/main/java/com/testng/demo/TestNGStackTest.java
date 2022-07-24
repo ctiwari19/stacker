@@ -9,6 +9,7 @@ public class TestNGStackTest
 public void TestNGStack()
 {
 	System.out.println("Stakkerrs");
+	System.out.println("Naruto");
 	
 	}
 }
