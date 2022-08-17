@@ -10,6 +10,7 @@ public void TestNGStack()
 {
 	System.out.println("Stakkerrs");
 	System.out.println("Naruto");
+	System.out println("Pokemon");
 	
 	}
 }
